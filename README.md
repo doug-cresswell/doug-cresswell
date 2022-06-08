@@ -1,3 +1,8 @@
+![Lines of code](https://img.shields.io/tokei/lines/github/doug-cresswell/doug-cresswell)
+![GitHub last commit](https://img.shields.io/github/last-commit/doug-cresswell/doug-cresswell)
+[![HitCount](http://hits.dwyl.com/doug-cresswell/doug-cresswell.svg)](http://hits.dwyl.com/doug-cresswell/doug-cresswell)
+
+
 ### Hi there 👋
 
 <!--
@@ -15,4 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=doug-cresswell&show_icons=true)
+### My Repo Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=doug-cresswell&show_icons=true)<br>
+
+### My Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doug-cresswell&theme=blue-green)

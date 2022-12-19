@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm Doug, nice to meet you
 
 
-- 😄 Pronouns:    *He/Him*
+- 👌 Pronouns:    *He/Him*
 
 
 - 🔭 I’m currently working on...

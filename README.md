@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning...
-  - AWS
+  - Swift
   - MicroPython
-  - Terraform
-  - CI/CD
+  - AWS
 
 
 - 👯 I’m looking to collaborate on ...
   - Hardware Reverse Engineering:
     - e.g. Adding features to my Remarkable Tablet, automating sync of documents and notes
   - Machine Learning for Good
+  - App Development (iOS, MacOs, Kotlin, Firebase)
 
 
 - 💬 Ask me about...
